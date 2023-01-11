@@ -1,6 +1,6 @@
 # GRADETHEM
 
-This is a basic **Flask application** that was build to understand the core concepts of flask and its libraries.
+This is a basic **Flask application** that was build to understand the core concepts of flask and assosiated libraries.
 
 
 ## Concepts used
