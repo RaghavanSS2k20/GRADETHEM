@@ -9,6 +9,7 @@ This is a basic **Flask application** that was build to understand the core conc
    - **Flask blueprints**
    - **SQLAlchemy**
    - **Marshmallow**
+   - **Gunicorn** as server for better scalability in production environment
    
    finally tested with **pytest** framework 
    
