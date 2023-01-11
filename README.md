@@ -5,10 +5,10 @@ This is a basic **Flask application** that was build to understand the core conc
 
 ## Concepts used
 
-   **->** **Flask**
-   **->** **Flask blueprints**
-   **->** **SQLAlchemy**
-   **->** **Marshmallow**
+   - **Flask**
+   - **Flask blueprints**
+   - **SQLAlchemy**
+   - **Marshmallow**
    
    finally tested with **pytest** framework 
    
