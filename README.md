@@ -212,3 +212,7 @@ response:
     }
 }
 ```
+
+## PYTEST COVERAGE
+![Capture](https://user-images.githubusercontent.com/76263002/217569137-71c6ea14-d647-4e1c-8199-f98c1c1b6cf8.PNG)
+
